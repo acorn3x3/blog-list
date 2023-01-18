@@ -13,3 +13,6 @@ export function useBlogs() {
   }, []);
   return blogs;
 }
+
+
+//////////asdasda for netlify
